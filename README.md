@@ -4,7 +4,7 @@
 
 💪 I've been developing since I was 13, both C+ programs and mobile applications, starting with Java (Android Studio).
 
-📍 I'm an French guy (he/him), and I live in Bourgogne Franche-Comté. However, I work a lot in English.
+📍 I'm French, and I live in Bourgogne Franche-Comté. However, I work a lot in English.
 
 ---
 
