@@ -6,9 +6,7 @@
 
 📍 I'm an French guy (he/him), and I live in Bourgogne Franche-Comté. However, I work a lot in English.
 
-
 ---
-
 
 ### News
 - 💻 I'm currently working on a e-sport platform.
@@ -16,6 +14,9 @@
 - 🤖 I'm very interested in the field of AI
 
 ---
+
+### Statistics
+
 🔒 Most of my projects are private, but some are public.
 
 📈 Here are some statistics on my public projects : 
